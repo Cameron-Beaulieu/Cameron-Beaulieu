@@ -12,7 +12,6 @@ My name is Cameron Beaulieu and here's a bit about me:
 ## Upcoming Projects
 You may be wondering, Cameron, this GitHub looks pretty empty and right you'd be. However, that's getting fixed. Take a look below for what I'm currently working on: 
 
-+ HackHer Hackathon - Python and TensorFlow - November 7th-8th 
 + Hack Western Hackathon - Project Details Coming Soon - November 20rd-22th
 + Hack The North Hackathon - Project Details Coming Soon - January 15th-17th
 + QHacks Hackathon - Project Details Coming Closer to Event - January 22nd-24th 

@@ -23,7 +23,7 @@ You may be wondering, Cameron, this GitHub looks pretty empty and right you'd be
 
 ## Feel Free To Reach Out To Me!
 + Feel free to ask about anything above or just how my day's going. 
-+ I'm currently looking for an internship, so to all you recruiters out there, hey, Cameron's the name and coding's my game.
++ I'm currently looking for an internship, so to all you recruiters out there, hey, Cameron's my name and coding's my game.
 
 <p float="left">
           <a href="https://www.linkedin.com/in/cameron-beaulieu/"><img height=100 src="https://icons-for-free.com/iconfiles/png/512/sc+linkedin-131965017554733397.png"></a>

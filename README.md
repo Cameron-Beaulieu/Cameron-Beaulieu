@@ -13,7 +13,6 @@ My name is Cameron Beaulieu and here's a bit about me:
 You may be wondering, Cameron, this GitHub looks pretty empty and right you'd be. However, that's getting fixed. Take a look below for what I'm currently working on: 
 
 + Hack The North Hackathon - Budgy, a budgeting app built in React Native that allows users to scan receipts and have purchases automatically categorized against their set budgets. Final touches are currently being made and the app will be posted soon.
-+ QHacks Hackathon - Project Details Coming Closer to Event - January 22nd-24th 
 
 
 

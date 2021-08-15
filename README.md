@@ -2,12 +2,12 @@
 My name is Cameron Beaulieu and here's a bit about me:
 
 + Preferred Pronouns: He/Him
-+ I'm currently in my second year undergraduate student at Queen's University studying Computer Science 
++ I'm currently in my third year undergraduate student at Queen's University studying Computer Science & Commerce
 + I'm currently living in Ontario, Canada 
-+ Some of the stuff I work with: Java, Python, JavaScript, HTML, CSS, React Native, TensorFlow, ROS, Expo, C, Bash
-+ I'm looking to pursue a software development career and possibly eventually project management
++ Some of the stuff I work with: C#, Unity Java, Python, JavaScript, HTML, CSS, React Native, TensorFlow, ROS, Expo, C, Bash
++ I'm looking to pursue career in project management and software development
 + Programming Interests: App development, Game development, and willing to try pretty much anything out there
-+ Other Interests: Fitness, Video/Card/Board games, Science, Chess, Karate
++ Other Interests: Fitness, Video/Card/Board games, Chess, Karate
 
 ## Upcoming Projects
 Check back soon as I'm currently planning out some really amazing projects
@@ -20,7 +20,7 @@ Check back soon as I'm currently planning out some really amazing projects
 
 ## Feel Free To Reach Out To Me!
 + Feel free to ask about anything above or just how my day's going. 
-+ I'm currently looking for an internship, so to all you recruiters out there, hey, Cameron's my name and coding's my game.
++ I'm currently looking for an internship for summer 2022, so to all you recruiters out there, hey 😉
 
 <p float="left">
           <a href="https://www.linkedin.com/in/cameron-beaulieu/"><img height=100 src="https://icons-for-free.com/iconfiles/png/512/sc+linkedin-131965017554733397.png"></a>

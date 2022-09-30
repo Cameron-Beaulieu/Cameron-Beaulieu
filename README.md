@@ -10,7 +10,7 @@ My name is Cameron Beaulieu and here's a bit about me:
 + Other Interests: Fitness, Video/Card/Board games, Chess, Karate
 
 ## Upcoming Projects
-I'm currently in-between my summer projects and my school year proejcts. Check back soon to see what I'll be working on during this coming school year
+I'm currently working on a startup aiming to simplify job application and interview tracking. Sadly we aren't ready to show off this life changing piece of technology, but be sure to check back here for when we got some cool stuff to view 😎
 
 
 

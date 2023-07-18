@@ -9,9 +9,6 @@ My name is Cameron Beaulieu and here's a bit about me:
 + Career Interests: Product Management, AWS development, App development
 + Other Interests: Fitness, Video/Card/Board games, Chess
 
-<!--- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Cameron-Beaulieu&hide=prs,contribs&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cameron-Beaulieu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Feel Free To Reach Out To Me!
 + Feel free to ask about anything above or just how my day's going. 
 + I'm currently looking for a new grab role in either product management or software engineering, so to all you recruiters out there, hey 😉
